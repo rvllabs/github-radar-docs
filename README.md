@@ -1,9 +1,6 @@
 # Github Radar: Vibe Coding Docs
 Kumpulan dokumen yang dipakai untuk membangun **Github Radar** dengan AI coding agent (vibe coding). Gratis, silakan dipakai dan dimodifikasi.
 
-**Video tutorial:** [LINK_VIDEO_YOUTUBE]
-**Desain (Google Stitch):** [LINK_SHARE_STITCH]
-
 ## Isi Repo
 - `AGENTS.md`: aturan utama untuk AI agent
 - `docs/PRD.md`: kebutuhan dan fitur produk
