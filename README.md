@@ -8,7 +8,6 @@ Kumpulan dokumen yang dipakai untuk membangun **Github Radar** dengan AI coding 
 - `AGENTS.md`: aturan utama untuk AI agent
 - `docs/PRD.md`: kebutuhan dan fitur produk
 - `docs/DESIGN.md`: panduan tampilan dan design system
-- `docs/STRUCTURE.md`: struktur folder dan arsitektur
 - `docs/RULES.md`: aturan coding dan batasan
 - `docs/TASK.md`: daftar tugas bertahap
 - `docs/SCHEMA.md`: skema data
@@ -19,7 +18,7 @@ Kumpulan dokumen yang dipakai untuk membangun **Github Radar** dengan AI coding 
 3. Taruh `AGENTS.md` dan folder `docs/` di root project kamu.
 4. Ikuti alurnya di video: minta agent mengerjakan `TASK.md` tahap demi tahap.
 
-## Source Code Siap Pakai (Opsional, Berbayar)
+## Source Code Siap Pakai (Opsional)
 Kalau mau langsung punya aplikasinya tanpa membangun dari awal, tersedia source code versi terbaik, panduan instalasi sampai aplikasi jalan, dan terupdate di **[rvllabs.id](https://rvllabs.id)**.
 
 ## Catatan
